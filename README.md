@@ -14,7 +14,7 @@
 
 ### 📌 Projetos em Destaque
 
-[![desafio-estacionamento](https://github-readme-stats.vercel.app/api/pin/?username=astiagovictor&repo=death_maze)](https://github.com/astiagovictor/desafio-estacionamento)
+[![desafio-estacionamento](https://github-readme-stats.vercel.app/api/pin/?username=astiagovictor&repo=desafio-estacionamento)](https://github.com/astiagovictor/desafio-estacionamento)
 
 ### 🚀 Linguagens Mais Usadas
 
